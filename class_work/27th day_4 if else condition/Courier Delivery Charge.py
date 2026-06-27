@@ -3,9 +3,9 @@
 
 
 '''Courier Delivery Charge Problem Statement A co
-urier company calculates delivery charges based on the package weight. • W
-eight up to 2 kg → ₹50  • Weight greater than 2 kg and up to 5 kg → ₹100  • Weight grea
-ter than 5 kg → ₹180  Write a Python program to disp
+urier company calculates delivery charges based on the package weight. 
+ Weight up to 2 kg → ₹50  • Weight greater than 2 kg and up to 5 kg → ₹100  • Weight
+ greater than 5 kg → ₹180  Write a Python program to disp
 lay the delivery charge. Sample Input 4 Sample Output Delivery Charge = ₹100 '''
 
 
@@ -34,3 +34,12 @@ elif weight <= 5:
 # If weight is greater than 5 kg
 else:
     print("Delivery Charge = ₹180")
+
+
+#-------------------------------output---------------------------------
+
+'''Enter the package weight (in kg): 50
+Delivery Charge = ₹180'''
+
+#-----------------------------------------------------------------------
+
