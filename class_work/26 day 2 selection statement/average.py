@@ -1,6 +1,6 @@
+1
 ''' write a program to calculate average of five number '''
 # Program to calculate average of 5 numbers
-
 num1 = float(input("Enter first number: "))
 num2 = float(input("Enter second number: "))
 num3 = float(input("Enter third number: "))
