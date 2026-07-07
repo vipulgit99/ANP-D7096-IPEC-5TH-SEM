@@ -53,4 +53,4 @@ print("Total Vowels:", total_vowels)
 Enter a sentence: Enter a sentence: Python Programming is Fun
 
 
-Total Vowels: 12 '''
+Total Vowels: 6 '''
